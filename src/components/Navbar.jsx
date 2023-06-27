@@ -21,7 +21,7 @@ const Navbar = () => {
             setToggle(false);
           }}
         >
-          <img src={logo} alt="logo" className="w-32" />
+          <img src={logo} alt="logo" className="w-24" />
           <p className="text-white font-bold cursor-pointer text-[18px] flex">
             NEXUS&nbsp;
             <span className="sm:block hidden">|&nbsp;REACT JS DEVELOPER</span>
